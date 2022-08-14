@@ -29,7 +29,7 @@ anyone may be able to see the name of one or more private repositories.
    the access token when it is generated – if you lose it, you will have to
    regenerate the token.
 
-2. Click [here](https://github.com/rahul-jha98/github-stats-transparent/fork) to create a
+2. Click [here](https://github.com/wanderson-blima/GitHub_Stats_Transparent/fork) to create a
    fork of this repository
 
 3. If this is the README of your fork, click [this
