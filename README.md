@@ -1,14 +1,14 @@
 # GitHub Stats Visualizations : Transparent
 > Generate visualizations of GitHub user and repository statistics using GitHub
 Actions.
+<div align="center">
+<a href="https://github.com/wanderson-blima/GitHub_Stats_Transparent">
 
-<a href="https://github.com/rahul-jha98/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/wanderson-blima/GitHub_Stats_Transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/wanderson-blima/GitHub_Stats_Transparent/output/generated/languages.svg)
 
 </a>
-
+</div>
 > NOTE: This repository is my extension of the repo [jstrieb/github-stats](https://github.com/jstrieb/github-stats). This repo was meant to serve as a detached fork of his project. If you like this repository make sure you also star his repository to show appreciation for his work. 
 
 ## ⚠️ Disclaimer
@@ -82,11 +82,13 @@ With the introduction of dark mode in Github it has become difficult to set an i
 To solve this the most obvious solution was to make the background transparent. All that was left was to choose colors for text that makes it legible in light as well as dark background.
 
 After wasting a day playing with different color values finally settled on one. Hope you like it. 
+<div align="center">
 
 ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/light.png)
 
 ![](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/main/readme_images/dark.png)
 
+</div>
 
 ## Related Projects
 
